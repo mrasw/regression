@@ -14,7 +14,7 @@ explained variance score:  1.0\
 max error:  0.0\
 mean absolute error:  0.0\
 mean squared error:  0.0\
-R square score:  1.0\
+R square score:  1.0
 
 
 Neighbor =  2\
@@ -28,7 +28,7 @@ explained variance score:  0.740923945574175\
 max error:  99.5\
 mean absolute error:  18.44871794871795\
 mean squared error:  743.9679487179487\
-R square score:  0.7404899860793546\
+R square score:  0.7404899860793546
 
 
 Neighbor =  3\
